@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: gcr.io/fit-sb-claw-devel/podinfo
-      tag: dev-aonzihku
+      tag: dev-yfwk0a0k
     replicaCount: 1
     hpa:
       enabled: false
